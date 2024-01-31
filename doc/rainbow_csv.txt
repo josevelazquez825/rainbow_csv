@@ -1,6 +1,6 @@
 ==============================================================================
 *rainbow_csv* - highlight columns in csv/tsv/*sv files in different colors
-
+986721
 ==============================================================================
 
 Rainbow CSV: highlight columns in csv/tsv files and execute SELECT and UPDATE
